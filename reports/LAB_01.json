@@ -1,0 +1,127 @@
+{
+  "lab": "01",
+  "part0": {
+    "model_calls": null,
+    "tool_calls": null,
+    "prompt_tokens": null,
+    "cache_read_tokens": null,
+    "cache_read_share": null,
+    "first_prompt": null,
+    "last_prompt": null,
+    "cumulative_over_first": null
+  },
+  "worst_case": {
+    "F": null,
+    "A": null,
+    "N": null,
+    "cumulative_prompt_tokens": null
+  },
+  "results": {
+    "direct": {
+      "runs": null,
+      "passes": null,
+      "per_issue": {
+        "4201": null,
+        "4202": null,
+        "4203": null,
+        "4204": null,
+        "4205": null,
+        "4206": null
+      },
+      "sweep_min": null,
+      "sweep_max": null,
+      "all_ten": null,
+      "mean_prompt_tokens": null,
+      "mean_output_tokens": null,
+      "mean_cached_tokens": null,
+      "p50_latency_s": null,
+      "p95_latency_s": null,
+      "mean_cost_usd": null,
+      "mean_tool_calls": null,
+      "max_tool_calls": null
+    },
+    "workflow": {
+      "runs": null,
+      "passes": null,
+      "per_issue": {
+        "4201": null,
+        "4202": null,
+        "4203": null,
+        "4204": null,
+        "4205": null,
+        "4206": null
+      },
+      "sweep_min": null,
+      "sweep_max": null,
+      "all_ten": null,
+      "mean_prompt_tokens": null,
+      "mean_output_tokens": null,
+      "mean_cached_tokens": null,
+      "p50_latency_s": null,
+      "p95_latency_s": null,
+      "mean_cost_usd": null,
+      "mean_tool_calls": null,
+      "max_tool_calls": null
+    },
+    "agent": {
+      "runs": null,
+      "passes": null,
+      "per_issue": {
+        "4201": null,
+        "4202": null,
+        "4203": null,
+        "4204": null,
+        "4205": null,
+        "4206": null
+      },
+      "sweep_min": null,
+      "sweep_max": null,
+      "all_ten": null,
+      "mean_prompt_tokens": null,
+      "mean_output_tokens": null,
+      "mean_cached_tokens": null,
+      "p50_latency_s": null,
+      "p95_latency_s": null,
+      "mean_cost_usd": null,
+      "mean_tool_calls": null,
+      "max_tool_calls": null
+    },
+    "hybrid": {
+      "runs": null,
+      "passes": null,
+      "per_issue": {
+        "4201": null,
+        "4202": null,
+        "4203": null,
+        "4204": null,
+        "4205": null,
+        "4206": null
+      },
+      "sweep_min": null,
+      "sweep_max": null,
+      "all_ten": null,
+      "mean_prompt_tokens": null,
+      "mean_output_tokens": null,
+      "mean_cached_tokens": null,
+      "p50_latency_s": null,
+      "p95_latency_s": null,
+      "mean_cost_usd": null,
+      "mean_tool_calls": null,
+      "max_tool_calls": null
+    }
+  },
+  "analysis": {
+    "ratio_agent_over_direct_tokens": null,
+    "m_agent_over_workflow_cost": null,
+    "f": null,
+    "blended_cost": null,
+    "all_agent_cost": null,
+    "workflow_cost": null,
+    "path_entropy": {
+      "distinct_sequences": null,
+      "top3_share": null
+    },
+    "verdict": null,
+    "hybrid_handoffs": null
+  }
+}

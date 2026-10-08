@@ -1,0 +1,10 @@
+# Assignment 1, Part A: your loop's three bounds. Pick each value and say why, in one
+# line, next to it. Framework defaults are no guide (Week 1, slide 18): they
+# measure different units and they move. Treat the bound as yours to set.
+#
+# max_tokens must sit below the harness ceiling in settings.yaml
+# (session_token_ceiling), so that your loop, not the harness, ends the run.
+
+max_steps: 0        # why:
+max_tokens: 0       # why:
+wall_clock_s: 0     # why:
