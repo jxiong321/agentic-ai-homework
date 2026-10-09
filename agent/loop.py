@@ -32,10 +32,13 @@ before its next call.
 
 from __future__ import annotations
 
+import time
 from dataclasses import dataclass
 from pathlib import Path
 
 import yaml
+
+from harness.client import tool_result
 
 
 @dataclass(frozen=True)
@@ -51,4 +54,48 @@ def load_bounds(path: Path | str = Path(__file__).parent / "bounds.yaml") -> Bou
 
 
 def run_loop(client, tools, system: str, user_message: str, bounds: Bounds, trace) -> str:
-    raise NotImplementedError("Assignment 1 Part A: write the loop")
+    start = time.monotonic()
+    messages = [{"role": "user", "content": user_message}]
+    last_text = ""
+    step = 0
+
+    while True:
+        # The bounds are checked here, in code, before every model call
+        elapsed = time.monotonic() - start
+        if step >= bounds.max_steps:
+            trace.end("turn_limit", f"{step} model calls")
+            return last_text
+        if client.total_tokens >= bounds.max_tokens:
+            trace.end("token_budget", f"{client.total_tokens} >= {bounds.max_tokens} tokens")
+            return last_text
+        if elapsed >= bounds.wall_clock_s:
+            trace.end("wall_clock", f"{elapsed:.1f}s >= {bounds.wall_clock_s}s")
+            return last_text
+
+        step += 1
+        response = client.create(system=system, messages=messages, tools=tools.schemas)
+        trace.model_call(step, response)
+        messages.append(response.assistant_message())
+        if response.text:
+            last_text = response.text
+
+        if response.stop_reason == "refusal":
+            trace.end("refusal", f"step {step}")
+            return last_text
+        calls = response.tool_calls
+        if not calls:
+            trace.end("model_stopped", f"stop_reason {response.stop_reason}")
+            return last_text
+
+        # Run every tool the model asked for this step; send the results back as one user turn.
+        # An is_error result goes back to the model to recover from; a tool that raises ends the run.
+        results = []
+        for call in calls:
+            try:
+                result = tools.call(call.name, call.input)
+            except Exception as exc:
+                trace.end("tool_error", f"{call.name} raised {type(exc).__name__}: {exc}")
+                return last_text
+            trace.tool_call(step, call, result)
+            results.append(tool_result(call, result.content, result.is_error))
+        messages.append({"role": "user", "content": results})

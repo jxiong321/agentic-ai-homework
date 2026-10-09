@@ -1,0 +1,216 @@
+{"id": 1, "run_id": "direct-4201-s01-30bc5d", "issue": 4201, "body": "label: bug\nfile: src/api/auth.ts", "posted_at": "2026-10-09T15:47:18"}
+{"id": 2, "run_id": "direct-4202-s01-6a697f", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T15:47:19"}
+{"id": 3, "run_id": "direct-4203-s01-347940", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T15:47:19"}
+{"id": 4, "run_id": "direct-4204-s01-0300ed", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T15:47:20"}
+{"id": 5, "run_id": "direct-4205-s01-265922", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T15:47:21"}
+{"id": 6, "run_id": "direct-4206-s01-d0d6dc", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T15:47:21"}
+{"id": 7, "run_id": "direct-4201-s02-2e2475", "issue": 4201, "body": "label: bug\nfile: src/api/auth.ts", "posted_at": "2026-10-09T15:47:22"}
+{"id": 8, "run_id": "direct-4202-s02-bb90bc", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T15:47:23"}
+{"id": 9, "run_id": "direct-4203-s02-c2e773", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T15:47:23"}
+{"id": 10, "run_id": "direct-4204-s02-7d966f", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T15:47:24"}
+{"id": 11, "run_id": "direct-4205-s02-13f382", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T15:47:24"}
+{"id": 12, "run_id": "direct-4206-s02-2d6301", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T15:47:25"}
+{"id": 13, "run_id": "direct-4201-s03-15da47", "issue": 4201, "body": "label: bug\nfile: src/api/auth.ts", "posted_at": "2026-10-09T15:47:25"}
+{"id": 14, "run_id": "direct-4202-s03-fa3984", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T15:47:26"}
+{"id": 15, "run_id": "direct-4203-s03-57f5f8", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T15:47:27"}
+{"id": 16, "run_id": "direct-4204-s03-0ed7d3", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T15:47:27"}
+{"id": 17, "run_id": "direct-4205-s03-fa76a2", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T15:47:28"}
+{"id": 18, "run_id": "direct-4206-s03-e3f722", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T15:48:01"}
+{"id": 19, "run_id": "direct-4201-s04-e86f37", "issue": 4201, "body": "label: bug\nfile: src/api/auth.ts", "posted_at": "2026-10-09T15:49:01"}
+{"id": 20, "run_id": "direct-4202-s04-24de4f", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T15:49:02"}
+{"id": 21, "run_id": "direct-4203-s04-4e0e20", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T15:49:03"}
+{"id": 22, "run_id": "direct-4204-s04-59a315", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T15:49:03"}
+{"id": 23, "run_id": "direct-4205-s04-7d91cb", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T15:49:04"}
+{"id": 24, "run_id": "direct-4206-s04-f2f3a5", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T15:49:05"}
+{"id": 25, "run_id": "direct-4201-s05-8866c7", "issue": 4201, "body": "label: bug\nfile: src/api/auth.ts", "posted_at": "2026-10-09T15:49:06"}
+{"id": 26, "run_id": "direct-4202-s05-f42d94", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T15:49:06"}
+{"id": 27, "run_id": "direct-4203-s05-ac8b64", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T15:49:07"}
+{"id": 28, "run_id": "direct-4204-s05-8cb811", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T15:49:07"}
+{"id": 29, "run_id": "direct-4205-s05-2a6f36", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T15:49:08"}
+{"id": 30, "run_id": "direct-4206-s05-aa865a", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T15:49:09"}
+{"id": 31, "run_id": "direct-4201-s06-b1171c", "issue": 4201, "body": "label: bug\nfile: src/api/auth.ts", "posted_at": "2026-10-09T15:49:09"}
+{"id": 32, "run_id": "direct-4202-s06-c40bf2", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T15:49:10"}
+{"id": 33, "run_id": "direct-4203-s06-1731fa", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T15:49:10"}
+{"id": 34, "run_id": "direct-4204-s06-b66f9e", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T15:49:11"}
+{"id": 35, "run_id": "direct-4205-s06-4d3f46", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T15:49:12"}
+{"id": 36, "run_id": "direct-4206-s06-04598a", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T15:49:12"}
+{"id": 37, "run_id": "direct-4201-s07-ef7015", "issue": 4201, "body": "label: bug\nfile: src/api/auth.ts", "posted_at": "2026-10-09T15:49:13"}
+{"id": 38, "run_id": "direct-4202-s07-de2c48", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T15:49:14"}
+{"id": 39, "run_id": "direct-4203-s07-6fb9c6", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T15:50:01"}
+{"id": 40, "run_id": "direct-4204-s07-cc49c4", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T15:55:10"}
+{"id": 41, "run_id": "direct-4205-s07-7e830d", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T15:55:10"}
+{"id": 42, "run_id": "direct-4206-s07-65950c", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T15:55:11"}
+{"id": 43, "run_id": "direct-4201-s08-315c45", "issue": 4201, "body": "label: bug\nfile: src/api/auth.ts", "posted_at": "2026-10-09T15:55:19"}
+{"id": 44, "run_id": "direct-4202-s08-0dcbf8", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T15:55:20"}
+{"id": 45, "run_id": "direct-4203-s08-f8591f", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T15:55:21"}
+{"id": 46, "run_id": "direct-4204-s08-cb39d5", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T15:55:21"}
+{"id": 47, "run_id": "direct-4205-s08-326244", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T15:55:22"}
+{"id": 48, "run_id": "direct-4206-s08-c16066", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T15:55:23"}
+{"id": 49, "run_id": "direct-4201-s09-db7575", "issue": 4201, "body": "label: bug\nfile: src/api/auth.ts", "posted_at": "2026-10-09T15:55:23"}
+{"id": 50, "run_id": "direct-4202-s09-3778e8", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T15:55:24"}
+{"id": 51, "run_id": "direct-4203-s09-5469bd", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T15:55:25"}
+{"id": 52, "run_id": "direct-4204-s09-b7e4ef", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T15:55:26"}
+{"id": 53, "run_id": "direct-4205-s09-2baf56", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T15:55:26"}
+{"id": 54, "run_id": "direct-4206-s09-099805", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T15:55:27"}
+{"id": 55, "run_id": "direct-4201-s10-f69730", "issue": 4201, "body": "label: bug\nfile: src/api/auth.ts", "posted_at": "2026-10-09T15:55:28"}
+{"id": 56, "run_id": "direct-4202-s10-a10ef8", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T15:55:28"}
+{"id": 57, "run_id": "direct-4203-s10-cda616", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T15:56:01"}
+{"id": 58, "run_id": "direct-4204-s10-b32d9a", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T15:57:01"}
+{"id": 59, "run_id": "direct-4205-s10-ac6639", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T15:57:02"}
+{"id": 60, "run_id": "direct-4206-s10-56eede", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T15:57:03"}
+{"id": 61, "run_id": "workflow-4201-s01-873013", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T15:57:53"}
+{"id": 62, "run_id": "workflow-4202-s01-eaa1b1", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T15:57:54"}
+{"id": 63, "run_id": "workflow-4203-s01-aaccd7", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T15:57:56"}
+{"id": 64, "run_id": "workflow-4204-s01-88af5e", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T15:57:57"}
+{"id": 65, "run_id": "workflow-4205-s01-cd0f3a", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T15:57:58"}
+{"id": 66, "run_id": "workflow-4206-s01-de0f0a", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T15:57:59"}
+{"id": 67, "run_id": "workflow-4201-s02-c530a0", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T15:58:00"}
+{"id": 68, "run_id": "workflow-4202-s02-6d2ada", "issue": 4202, "body": "label: feature\nfile: src/export/", "posted_at": "2026-10-09T15:58:01"}
+{"id": 69, "run_id": "workflow-4203-s02-088a78", "issue": 4203, "body": "label: question\nfile: none", "posted_at": "2026-10-09T15:59:02"}
+{"id": 70, "run_id": "workflow-4204-s02-2a9468", "issue": 4204, "body": "label: bug\nfile: src/export/scheduler.ts", "posted_at": "2026-10-09T15:59:03"}
+{"id": 71, "run_id": "workflow-4205-s02-a06c5e", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T15:59:04"}
+{"id": 72, "run_id": "workflow-4206-s02-2938bf", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T15:59:05"}
+{"id": 73, "run_id": "workflow-4201-s03-3bbdab", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T15:59:06"}
+{"id": 74, "run_id": "workflow-4202-s03-e95f99", "issue": 4202, "body": "label: feature\nfile: src/api/reports.ts", "posted_at": "2026-10-09T15:59:07"}
+{"id": 75, "run_id": "workflow-4203-s03-87c821", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T15:59:08"}
+{"id": 76, "run_id": "workflow-4204-s03-459d69", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T15:59:10"}
+{"id": 77, "run_id": "workflow-4205-s03-fbd786", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T15:59:11"}
+{"id": 78, "run_id": "workflow-4206-s03-bb0e64", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T15:59:12"}
+{"id": 79, "run_id": "workflow-4201-s04-5b09ce", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T15:59:13"}
+{"id": 80, "run_id": "workflow-4202-s04-81efd7", "issue": 4202, "body": "label: feature\nfile: src/export/", "posted_at": "2026-10-09T16:00:01"}
+{"id": 81, "run_id": "workflow-4203-s04-4040fb", "issue": 4203, "body": "label: bug\nfile: src/parser.js", "posted_at": "2026-10-09T16:01:02"}
+{"id": 82, "run_id": "workflow-4204-s04-d7829c", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T16:01:03"}
+{"id": 83, "run_id": "workflow-4205-s04-80bab8", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T16:01:05"}
+{"id": 84, "run_id": "workflow-4206-s04-5c8d6e", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T16:01:06"}
+{"id": 85, "run_id": "workflow-4201-s05-58fe55", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T16:01:07"}
+{"id": 86, "run_id": "workflow-4202-s05-0cc261", "issue": 4202, "body": "label: feature\nfile: src/export/csv.ts", "posted_at": "2026-10-09T16:01:08"}
+{"id": 87, "run_id": "workflow-4203-s05-352f73", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T16:01:09"}
+{"id": 88, "run_id": "workflow-4204-s05-d2a530", "issue": 4204, "body": "label: bug\nfile: src/export/scheduler.ts", "posted_at": "2026-10-09T16:01:11"}
+{"id": 89, "run_id": "workflow-4205-s05-3ca04e", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T16:01:12"}
+{"id": 90, "run_id": "workflow-4206-s05-682d17", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T16:01:13"}
+{"id": 91, "run_id": "workflow-4201-s06-ee78f1", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T16:01:14"}
+{"id": 92, "run_id": "workflow-4202-s06-134ca8", "issue": 4202, "body": "label: feature\nfile: src/exporters/index.js", "posted_at": "2026-10-09T16:02:01"}
+{"id": 93, "run_id": "workflow-4203-s06-241c90", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T16:03:01"}
+{"id": 94, "run_id": "workflow-4204-s06-5ebad7", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T16:03:02"}
+{"id": 95, "run_id": "workflow-4205-s06-e111c8", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T16:03:03"}
+{"id": 96, "run_id": "workflow-4206-s06-a24e8c", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T16:03:05"}
+{"id": 97, "run_id": "workflow-4201-s07-d31f77", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T16:03:06"}
+{"id": 98, "run_id": "workflow-4202-s07-894499", "issue": 4202, "body": "label: feature\nfile: src/api/reports.ts", "posted_at": "2026-10-09T16:03:07"}
+{"id": 99, "run_id": "workflow-4203-s07-e9d276", "issue": 4203, "body": "label: bug\nfile: src/parser.js", "posted_at": "2026-10-09T16:03:08"}
+{"id": 100, "run_id": "workflow-4204-s07-3ea6f8", "issue": 4204, "body": "label: bug\nfile: src/db/repos/userRepo.ts", "posted_at": "2026-10-09T16:03:09"}
+{"id": 101, "run_id": "workflow-4205-s07-3b2369", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T16:03:11"}
+{"id": 102, "run_id": "workflow-4206-s07-795aaa", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T16:03:12"}
+{"id": 103, "run_id": "workflow-4201-s08-94f2ca", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T16:03:13"}
+{"id": 104, "run_id": "workflow-4202-s08-0686c2", "issue": 4202, "body": "label: feature\nfile: src/export/csv.ts", "posted_at": "2026-10-09T16:03:15"}
+{"id": 105, "run_id": "workflow-4203-s08-d25a65", "issue": 4203, "body": "label: bug\nfile: src/import/parser.py", "posted_at": "2026-10-09T16:05:01"}
+{"id": 106, "run_id": "workflow-4204-s08-22b734", "issue": 4204, "body": "label: bug\nfile: src/api/users.ts", "posted_at": "2026-10-09T16:05:03"}
+{"id": 107, "run_id": "workflow-4205-s08-584c9d", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T16:05:04"}
+{"id": 108, "run_id": "workflow-4206-s08-d179be", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T16:05:06"}
+{"id": 109, "run_id": "workflow-4201-s09-443545", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T16:05:08"}
+{"id": 110, "run_id": "workflow-4202-s09-d806ff", "issue": 4202, "body": "label: feature\nfile: src/export/", "posted_at": "2026-10-09T16:05:09"}
+{"id": 111, "run_id": "workflow-4203-s09-9e0503", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T16:05:10"}
+{"id": 112, "run_id": "workflow-4204-s09-f5d0c4", "issue": 4204, "body": "label: bug\nfile: src/export/scheduler.ts", "posted_at": "2026-10-09T16:05:12"}
+{"id": 113, "run_id": "workflow-4205-s09-fe783a", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T16:05:13"}
+{"id": 114, "run_id": "workflow-4206-s09-aa654a", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T16:05:14"}
+{"id": 115, "run_id": "workflow-4201-s10-3701c0", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T16:05:15"}
+{"id": 116, "run_id": "workflow-4202-s10-0315f7", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T16:06:01"}
+{"id": 117, "run_id": "workflow-4203-s10-070678", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T16:06:04"}
+{"id": 118, "run_id": "workflow-4204-s10-b5a6a2", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T16:06:06"}
+{"id": 119, "run_id": "workflow-4205-s10-d58652", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T16:06:07"}
+{"id": 120, "run_id": "workflow-4206-s10-4aa03d", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T16:06:08"}
+{"id": 121, "run_id": "agent-4201-s01-fc1bc7", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts\n\nThe password reset email generation constructs links using a hardcoded or misconfigured localhost base URL instead of the production domain.", "posted_at": "2026-10-09T16:07:24"}
+{"id": 122, "run_id": "agent-4202-s01-09e9cd", "issue": 4202, "body": "label: feature\nfile: src/export/csv.ts\n\nThis is a request for a new export format (TSV), which involves adding TSV generation alongside CSV and XLSX in the export module and API endpoints.", "posted_at": "2026-10-09T16:07:29"}
+{"id": 123, "run_id": "agent-4203-s01-e6bd82", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts\n\nThe error indicates that the uploaded CSV/statement file's row columns do not match the expected header, likely caused by new line endings (e.g., Windows CRLF) or CSV delimiter issues from the new export tool in `src/ingest/parser.ts`.", "posted_at": "2026-10-09T16:09:01"}
+{"id": 124, "run_id": "agent-4204-s01-878dcf", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts\n\nThe weekly summary email arrives on Tuesday instead of Monday for users in time zones like Sydney because the scheduling logic does not correctly account for local time zones when triggering the email.", "posted_at": "2026-10-09T16:09:07"}
+{"id": 125, "run_id": "agent-4205-s01-486f9d", "issue": 4205, "body": "label: question\nfile: none\n\nThis is a general security inquiry about data retention policies rather than a bug report or feature request. The architecture documentation states that uploaded files are deleted from object storage after a successful import.", "posted_at": "2026-10-09T16:09:09"}
+{"id": 126, "run_id": "agent-4201-s02-428de5", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts\n\nThe password reset email uses a hardcoded or misconfigured base URL pointing to localhost instead of the production domain, which is causing broken reset links for users.", "posted_at": "2026-10-09T16:11:01"}
+{"id": 127, "run_id": "agent-4203-s02-22b700", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts\n\nThe parser splits CSV lines by `\\n`, which fails on Windows-style line endings (`\\r\\n`) generated by the new export tool, leaving carriage returns attached to the fields and causing column count mismatches.", "posted_at": "2026-10-09T16:11:10"}
+{"id": 128, "run_id": "agent-4205-s02-b4400b", "issue": 4205, "body": "label: question\nfile: none\n\nThis issue is an inquiry about security policies and data retention regarding uploaded files rather than a bug report or feature request, and our documentation already answers it.", "posted_at": "2026-10-09T16:12:08"}
+{"id": 129, "run_id": "agent-4201-s03-2f4a5f", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts\n\nThe password reset email uses a hardcoded or misconfigured base URL pointing to localhost instead of the production domain.", "posted_at": "2026-10-09T16:13:05"}
+{"id": 130, "run_id": "agent-4202-s03-b15c57", "issue": 4202, "body": "label: feature\nfile: src/export/csv.ts\n\nThe user is requesting a new export format (TSV) to avoid manual conversion issues with commas in transaction descriptions. This is a feature request, and the changes would primarily involve adding TSV support alongside the existing CSV and XLSX writers in the export module.", "posted_at": "2026-10-09T16:13:09"}
+{"id": 131, "run_id": "agent-4203-s03-6079e4", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts\n\nThe error indicates a mismatch between header columns and data row columns, likely caused by carriage returns (`\\r`) in line endings from the new Windows accounting export tool interacting with line splitting or CSV parsing.", "posted_at": "2026-10-09T16:13:13"}
+{"id": 132, "run_id": "agent-4205-s03-effc2f", "issue": 4205, "body": "label: question\nfile: none\n\nThe reporter is asking a question about how data retention works after an import, which is documented in the architecture notes and does not require any code changes.", "posted_at": "2026-10-09T16:15:07"}
+{"id": 133, "run_id": "agent-4201-s04-aaed48", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts\n\nThe password reset email uses a hardcoded or misconfigured base URL pointing to localhost instead of the production domain, which is a bug in the email template generation code.", "posted_at": "2026-10-09T16:16:05"}
+{"id": 134, "run_id": "agent-4202-s04-a7031e", "issue": 4202, "body": "label: feature\nfile: src/export/csv.ts\n\nThis is a request to add a new export format (TSV) alongside CSV and XLSX, which would naturally extend the existing export module.", "posted_at": "2026-10-09T16:17:01"}
+{"id": 135, "run_id": "agent-4203-s04-1145ab", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts\n\nThe error indicates that the uploaded CSV lines are not parsed correctly against the header, likely due to line ending mismatches (e.g., Windows CRLF vs LF) in the newly exported files. The CSV parsing logic in `src/ingest/parser.ts` is responsible for splitting and validating the rows.", "posted_at": "2026-10-09T16:17:05"}
+{"id": 136, "run_id": "agent-4205-s04-830563", "issue": 4205, "body": "label: question\nfile: none\n\nThe reporter is asking how the system handles retention of uploaded files after an import, which is answered in the documentation (specifically docs/ARCHITECTURE.md under \"What happens to uploaded files\"). No code or documentation changes are required.", "posted_at": "2026-10-09T16:18:07"}
+{"id": 137, "run_id": "agent-4201-s05-3f3071", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts\n\nThe password reset email uses a hardcoded or misconfigured base URL pointing to localhost instead of the production domain.", "posted_at": "2026-10-09T16:19:03"}
+{"id": 138, "run_id": "agent-4202-s05-8ddc7c", "issue": 4202, "body": "label: feature\nfile: src/api/reports.ts\n\nThe user is requesting a new report export format (TSV) to be added alongside CSV and XLSX, which involves adding support in the reports API endpoint and export handlers.", "posted_at": "2026-10-09T16:19:06"}
+{"id": 139, "run_id": "agent-4203-s05-80bb64", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts\n\nThe error indicates that the CSV parser fails when validating the row shape against the header. Since the new accounting export tool on Windows likely introduces CRLF (`\\r\\n`) line endings, `text.split(\"\\n\")` leaves trailing carriage returns on lines or headers, causing column count mismatches.", "posted_at": "2026-10-09T16:20:02"}
+{"id": 140, "run_id": "agent-4204-s05-c6858d", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts\n\nThe weekly summary email arrives on Tuesday instead of Monday for users in time zones like Sydney because the scheduling logic does not correctly account for the user's local time zone offset.", "posted_at": "2026-10-09T16:20:08"}
+{"id": 141, "run_id": "agent-4205-s05-e7a529", "issue": 4205, "body": "label: question\nfile: none\n\nThe security team is asking a question about existing behavior and retention policy, which is already documented in `docs/ARCHITECTURE.md`. No code or documentation changes are required.", "posted_at": "2026-10-09T16:20:10"}
+{"id": 142, "run_id": "agent-4201-s06-4e99df", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts\n\nThe password reset email uses a hardcoded or misconfigured base URL pointing to localhost instead of the production domain, which is causing incorrect links in emails.", "posted_at": "2026-10-09T16:21:07"}
+{"id": 143, "run_id": "agent-4202-s06-9da9de", "issue": 4202, "body": "label: feature\nfile: src/export/\n\nThe user is requesting a new export format (TSV) to be added alongside CSV and XLSX, which involves adding a new export module or extending the export system in `src/export/`.", "posted_at": "2026-10-09T16:22:03"}
+{"id": 144, "run_id": "agent-4205-s06-e358ee", "issue": 4205, "body": "label: question\nfile: none\n\nThe reporter is asking how uploaded files are handled after import for a security review, which is a question about existing behavior rather than a bug, feature request, or documentation fix.", "posted_at": "2026-10-09T16:23:05"}
+{"id": 145, "run_id": "agent-4201-s07-be8858", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts\n\nThe password reset email uses a hardcoded or misconfigured base URL pointing to localhost instead of the production domain.", "posted_at": "2026-10-09T16:24:04"}
+{"id": 146, "run_id": "agent-4203-s07-a024e7", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts\n\nThe error indicates that the uploaded CSV rows have a mismatch in column counts compared to the header. Since the finance team moved to a new export tool on Windows, this is likely caused by line ending (`\\r\\n`) or parsing issues in `src/ingest/parser.ts`.", "posted_at": "2026-10-09T16:25:02"}
+{"id": 147, "run_id": "agent-4205-s07-20f42f", "issue": 4205, "body": "label: question\nfile: none\n\nThe reporter is asking a question about data retention policy and how uploaded files are handled after an import. No code changes are required.", "posted_at": "2026-10-09T16:26:01"}
+{"id": 148, "run_id": "agent-4201-s08-fbad1c", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts\n\nThe password reset email uses a hardcoded fallback to localhost instead of reading the correct production domain environment variable or configuration.", "posted_at": "2026-10-09T16:26:08"}
+{"id": 149, "run_id": "agent-4202-s08-7761ec", "issue": 4202, "body": "label: feature\nfile: src/export/\n\nThe user is requesting a new export format (TSV) alongside the existing CSV and XLSX options, which would be implemented in the export module.", "posted_at": "2026-10-09T16:27:02"}
+{"id": 150, "run_id": "agent-4203-s08-9eab3f", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts\n\nThe error indicates that column counts are mismatching, likely due to line ending or delimiter issues arising from the new Windows accounting export tool (such as CRLF line endings or UTF-8 BOM/encoding differences) handled in parser.ts.", "posted_at": "2026-10-09T16:27:07"}
+{"id": 151, "run_id": "agent-4201-s09-2ca1b9", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts\n\nThe password reset email uses a hardcoded fallback to localhost instead of reading the correct production domain from environment variables or configuration.", "posted_at": "2026-10-09T17:11:12"}
+{"id": 152, "run_id": "agent-4203-s09-428340", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts\n\nThe error message indicates a mismatch between row columns and headers, likely caused by line ending or CSV parsing issues resulting from the new Windows export tool (such as CRLF line endings or different delimiters). The parsing logic in `src/ingest/parser.ts` is responsible for handling line splits and row validation.", "posted_at": "2026-10-09T17:11:21"}
+{"id": 153, "run_id": "agent-4205-s09-d6b4f2", "issue": 4205, "body": "label: question\nfile: none\n\nThis is a question about data retention policies and system behavior rather than a bug, feature request, or documentation fix. The architecture documentation notes that uploaded files are deleted after a successful import.", "posted_at": "2026-10-09T17:11:30"}
+{"id": 154, "run_id": "agent-4206-s09-1a9f88", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts\n\nThe issue describes a bug where transactions with different currencies are incorrectly being merged or deduplicated in the CSV export module.", "posted_at": "2026-10-09T17:11:36"}
+{"id": 155, "run_id": "agent-4201-s10-9059e2", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts\n\nThe password reset email uses a hardcoded fallback to localhost when `PUBLIC_URL` is not set, causing production emails to point to the wrong domain.", "posted_at": "2026-10-09T17:11:38"}
+{"id": 156, "run_id": "agent-4203-s10-006d4e", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts\n\nThe error indicates that the CSV parser fails when validating row columns against the header, likely due to newline or line-ending mismatches (such as Windows CRLF) introduced by the new accounting export tool. The issue is located in the CSV parsing logic within src/ingest/parser.ts.", "posted_at": "2026-10-09T17:11:48"}
+{"id": 157, "run_id": "agent-4205-s10-efafaf", "issue": 4205, "body": "label: question\nfile: none\n\nThe user is asking a question about how data retention works after an import, which is already answered in the architecture documentation (`docs/ARCHITECTURE.md`), so no code changes or file updates are needed.", "posted_at": "2026-10-09T17:11:56"}
+{"id": 158, "run_id": "hybrid-4201-s01-5851a1", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T17:18:01"}
+{"id": 159, "run_id": "hybrid-4202-s01-5bbc5f", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T17:18:02"}
+{"id": 160, "run_id": "hybrid-4203-s01-ecf5d1", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T17:18:04"}
+{"id": 161, "run_id": "hybrid-4204-s01-f36df1", "issue": 4204, "body": "label: bug\nfile: src/export/scheduler.ts", "posted_at": "2026-10-09T17:18:05"}
+{"id": 162, "run_id": "hybrid-4205-s01-ae57ec", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T17:18:06"}
+{"id": 163, "run_id": "hybrid-4206-s01-9339d5", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T17:18:07"}
+{"id": 164, "run_id": "hybrid-4201-s02-00c745", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T17:18:08"}
+{"id": 165, "run_id": "hybrid-4203-s02-bd5c1e", "issue": 4203, "body": "label: question\nfile: none", "posted_at": "2026-10-09T17:18:15"}
+{"id": 166, "run_id": "hybrid-4204-s02-d5de28", "issue": 4204, "body": "label: bug\nfile: docs/ARCHITECTURE.md", "posted_at": "2026-10-09T17:18:16"}
+{"id": 167, "run_id": "hybrid-4205-s02-47e5ed", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T17:18:17"}
+{"id": 168, "run_id": "hybrid-4206-s02-bb269b", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T17:18:18"}
+{"id": 169, "run_id": "hybrid-4201-s03-e0a82d", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T17:18:20"}
+{"id": 170, "run_id": "hybrid-4202-s03-a774ed", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T17:18:21"}
+{"id": 171, "run_id": "hybrid-4203-s03-451276", "issue": 4203, "body": "label: question\nfile: none", "posted_at": "2026-10-09T17:18:22"}
+{"id": 172, "run_id": "hybrid-4204-s03-665b44", "issue": 4204, "body": "label: bug\nfile: none", "posted_at": "2026-10-09T17:18:24"}
+{"id": 173, "run_id": "hybrid-4205-s03-7e9161", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T17:18:25"}
+{"id": 174, "run_id": "hybrid-4206-s03-67d031", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T17:18:26"}
+{"id": 175, "run_id": "hybrid-4201-s04-8d06e8", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T17:18:27"}
+{"id": 176, "run_id": "hybrid-4202-s04-e55ce6", "issue": 4202, "body": "label: feature\nfile: src/export/csv.ts\n\nThe user is requesting a new export format (TSV) to avoid issues with comma-containing transaction descriptions, which would be implemented in the export module alongside CSV and XLSX.", "posted_at": "2026-10-09T17:18:32"}
+{"id": 177, "run_id": "hybrid-4203-s04-21d6e1", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts\n\nThe error \"Malformed row\" indicates that CSV parsing or row splitting fails when checking column counts, which is likely caused by line ending differences (CRLF from the new Windows export tool versus LF expected by the parser). Therefore, `src/ingest/parser.ts` is the file most responsible for this issue.", "posted_at": "2026-10-09T17:18:37"}
+{"id": 178, "run_id": "hybrid-4204-s04-b463a2", "issue": 4204, "body": "label: bug\nfile: src/notifications/rollup.ts", "posted_at": "2026-10-09T17:18:39"}
+{"id": 179, "run_id": "hybrid-4205-s04-c2bfb3", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T17:18:40"}
+{"id": 180, "run_id": "hybrid-4206-s04-16a4a1", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T17:18:41"}
+{"id": 181, "run_id": "hybrid-4201-s05-b240d0", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T17:18:42"}
+{"id": 182, "run_id": "hybrid-4202-s05-9e0200", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T17:18:44"}
+{"id": 183, "run_id": "hybrid-4203-s05-8bb0c7", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts", "posted_at": "2026-10-09T17:18:45"}
+{"id": 184, "run_id": "hybrid-4204-s05-7075d5", "issue": 4204, "body": "label: bug\nfile: src/db/repos/userRepo.ts", "posted_at": "2026-10-09T17:18:46"}
+{"id": 185, "run_id": "hybrid-4205-s05-d01aec", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T17:18:47"}
+{"id": 186, "run_id": "hybrid-4206-s05-083e7b", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T17:18:48"}
+{"id": 187, "run_id": "hybrid-4201-s06-aa11a0", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T17:18:50"}
+{"id": 188, "run_id": "hybrid-4202-s06-f696d3", "issue": 4202, "body": "label: feature\nfile: src/export/csv.ts", "posted_at": "2026-10-09T17:18:51"}
+{"id": 189, "run_id": "hybrid-4203-s06-8dfc75", "issue": 4203, "body": "label: bug\nfile: none", "posted_at": "2026-10-09T17:18:52"}
+{"id": 190, "run_id": "hybrid-4204-s06-1500ae", "issue": 4204, "body": "label: bug\nfile: none", "posted_at": "2026-10-09T17:18:53"}
+{"id": 191, "run_id": "hybrid-4205-s06-88b439", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T17:18:54"}
+{"id": 192, "run_id": "hybrid-4206-s06-859a1a", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T17:18:55"}
+{"id": 193, "run_id": "hybrid-4201-s07-4bc54b", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T17:18:57"}
+{"id": 194, "run_id": "hybrid-4202-s07-876386", "issue": 4202, "body": "label: feature\nfile: src/export/csv.ts\n\nThe user is requesting a new export format (TSV) to avoid comma-escaping issues. This new feature would mainly be implemented or supported alongside the CSV writer in `src/export/csv.ts` (or a new TSV writer module/extension there).", "posted_at": "2026-10-09T17:19:02"}
+{"id": 195, "run_id": "hybrid-4203-s07-14a978", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts\n\nThe error message indicates a column count mismatch during CSV ingestion. Given that the accounting tool changed to Windows last week, line endings (`\\r\\n` vs `\\n`) or BOM handling in parser.ts are likely causing the header or row parsing to fail.", "posted_at": "2026-10-09T17:19:07"}
+{"id": 196, "run_id": "hybrid-4204-s07-34cd3f", "issue": 4204, "body": "label: bug\nfile: src/export/scheduler.ts", "posted_at": "2026-10-09T17:19:09"}
+{"id": 197, "run_id": "hybrid-4205-s07-91b0f8", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T17:19:10"}
+{"id": 198, "run_id": "hybrid-4206-s07-7fc51b", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T17:19:11"}
+{"id": 199, "run_id": "hybrid-4201-s08-5e3d2d", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T17:19:12"}
+{"id": 200, "run_id": "hybrid-4202-s08-2305b0", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T17:19:13"}
+{"id": 201, "run_id": "hybrid-4203-s08-12ef68", "issue": 4203, "body": "label: bug\nfile: src/i18n/en.json", "posted_at": "2026-10-09T17:19:15"}
+{"id": 202, "run_id": "hybrid-4204-s08-bac2d3", "issue": 4204, "body": "label: bug\nfile: src/export/scheduler.ts", "posted_at": "2026-10-09T17:19:16"}
+{"id": 203, "run_id": "hybrid-4205-s08-543c34", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T17:19:17"}
+{"id": 204, "run_id": "hybrid-4206-s08-8f77c9", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T17:19:18"}
+{"id": 205, "run_id": "hybrid-4201-s09-d0c207", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T17:19:19"}
+{"id": 206, "run_id": "hybrid-4202-s09-b8c5c7", "issue": 4202, "body": "label: feature\nfile: src/exportUtils.ts", "posted_at": "2026-10-09T17:19:20"}
+{"id": 207, "run_id": "hybrid-4203-s09-e2c7f7", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts\n\nThe error indicates that uploaded CSV files have row column counts differing from the header, likely caused by new line endings or encoding differences from the Windows export tool being handled incorrectly during parsing.", "posted_at": "2026-10-09T17:19:24"}
+{"id": 208, "run_id": "hybrid-4204-s09-f4eacd", "issue": 4204, "body": "label: bug\nfile: src/export/scheduler.ts", "posted_at": "2026-10-09T17:19:26"}
+{"id": 209, "run_id": "hybrid-4205-s09-21c2b5", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T17:19:27"}
+{"id": 210, "run_id": "hybrid-4206-s09-26fdff", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T17:19:29"}
+{"id": 211, "run_id": "hybrid-4201-s10-e04fc0", "issue": 4201, "body": "label: bug\nfile: src/notifications/templates.ts", "posted_at": "2026-10-09T17:19:30"}
+{"id": 212, "run_id": "hybrid-4202-s10-d9dbb7", "issue": 4202, "body": "label: feature\nfile: docs/ARCHITECTURE.md", "posted_at": "2026-10-09T17:19:31"}
+{"id": 213, "run_id": "hybrid-4203-s10-716a40", "issue": 4203, "body": "label: bug\nfile: src/ingest/parser.ts\n\nThe error indicates that the CSV parser fails when processing line endings (likely due to Windows CRLF line endings from the new export tool splitting lines incorrectly or leaving carriage returns attached), which should be handled by the parser in `src/ingest/parser.ts`.", "posted_at": "2026-10-09T17:19:36"}
+{"id": 214, "run_id": "hybrid-4204-s10-2b5a14", "issue": 4204, "body": "label: bug\nfile: src/export/scheduler.ts", "posted_at": "2026-10-09T17:19:38"}
+{"id": 215, "run_id": "hybrid-4205-s10-d62fef", "issue": 4205, "body": "label: question\nfile: none", "posted_at": "2026-10-09T17:19:39"}
+{"id": 216, "run_id": "hybrid-4206-s10-ab136a", "issue": 4206, "body": "label: bug\nfile: src/export/csv.ts", "posted_at": "2026-10-09T17:19:40"}

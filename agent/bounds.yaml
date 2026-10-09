@@ -5,6 +5,6 @@
 # max_tokens must sit below the harness ceiling in settings.yaml
 # (session_token_ceiling), so that your loop, not the harness, ends the run.
 
-max_steps: 0        # why:
-max_tokens: 0       # why:
-wall_clock_s: 0     # why:
+max_steps: 8        # why: A successful run might take around 4 model calls: 1) read the issue using read_issue, 2) search the repo using search_repo, 3) post answer using post_comment and 4) confirm the task is finished and stop. But if it doesn't work, it might take another try. so I'll give it double the amount of one successful calls
+max_tokens: 30000   # why: I estimate 500 tokens for the initial system prompt and tool defs, 463 tokens for estimated additional context per step, and 8 calls earlier. So using the formula given, I get 16,964 prompt tokens. Then, estimating 500 output tokens per call x 8 calls = 4,000. Added together that is 20,964 tokens
+wall_clock_s: 180     # why: There's an 8 model call max. Each call takes 5-10 seconds. That's 40-80 seconds. But the free tier is slow so made it 180 seconds.

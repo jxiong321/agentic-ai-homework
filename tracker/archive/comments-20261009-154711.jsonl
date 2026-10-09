@@ -1,0 +1,6 @@
+{"id": 1, "run_id": "direct-4191-s01-cb8a4a", "issue": 4191, "body": "label: docs\nfile: README.md", "posted_at": "2026-10-09T15:41:22"}
+{"id": 2, "run_id": "direct-4192-s01-074a84", "issue": 4192, "body": "label: bug\nfile: src/components/exportButton.tsx", "posted_at": "2026-10-09T15:41:23"}
+{"id": 3, "run_id": "workflow-4191-s01-71d1ce", "issue": 4191, "body": "label: docs\nfile: README.md", "posted_at": "2026-10-09T15:41:24"}
+{"id": 4, "run_id": "workflow-4192-s01-4233a6", "issue": 4192, "body": "label: bug\nfile: src/components/ExportButton.tsx", "posted_at": "2026-10-09T15:41:26"}
+{"id": 5, "run_id": "agent-4191-s01-7c81e4", "issue": 4191, "body": "label: docs\nfile: README.md\n\nThe README incorrectly refers to a `serve` script that does not exist in package.json. Updating the README to show the correct local development command will resolve this.", "posted_at": "2026-10-09T15:41:29"}
+{"id": 6, "run_id": "agent-4192-s01-8a4734", "issue": 4192, "body": "label: bug\nfile: src/components/ExportButton.tsx\n\nThe Export button stays disabled (`busy` remains true) when an export request fails because the error state is not resetting `busy` back to false.", "posted_at": "2026-10-09T15:42:05"}

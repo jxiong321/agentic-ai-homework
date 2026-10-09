@@ -12,6 +12,19 @@ calls a tool and traces it in one go; its step is the model call it belongs to,
 Keep your prompt in prompts/ and load it with ctx.prompt("direct.md").
 """
 
+from harness.formats import format_triage_comment, parse_triage_comment
+
 
 def run(ctx) -> None:
-    raise NotImplementedError("Assignment 1 Part B: the direct call")
+    issue = ctx.call_tool(0, "read_issue", {"number": ctx.issue_number}).content
+
+    prompt = (ctx.prompt("direct.md")
+              .replace("{repo_summary}", ctx.repo_summary)
+              .replace("{issue}", issue))
+    response = ctx.client.create(messages=[{"role": "user", "content": prompt}])
+    ctx.trace.model_call(1, response)
+
+    # An unparseable answer is still posted, so it is judged a failure rather than lost
+    label, file = parse_triage_comment(response.text)
+    body = format_triage_comment(label or "unknown", file)
+    ctx.call_tool(1, "post_comment", {"number": ctx.issue_number, "body": body})
